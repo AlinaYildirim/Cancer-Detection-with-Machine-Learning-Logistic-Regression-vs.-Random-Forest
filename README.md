@@ -13,7 +13,7 @@ This project demonstrates a clean, interpretable machine learning workflow suita
 
 ---
 
-## **📁 Project Structure & Approach**
+## **Project Structure & Approach**
 
 ### **1. Exploratory Data Analysis (EDA)**
 
