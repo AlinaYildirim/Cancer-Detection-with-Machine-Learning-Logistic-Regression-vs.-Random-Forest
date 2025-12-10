@@ -1,6 +1,6 @@
 # **Breast Cancer Detection – Machine Learning Mini Project**
 
-### **CSC 334 Final Project – Alina Yildirim**
+### **Alina Yildirim**
 
 ---
 
